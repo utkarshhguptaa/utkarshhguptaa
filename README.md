@@ -8,6 +8,7 @@
 
 <a href="#-projects"><img src="https://img.shields.io/badge/🚀_Explore_Projects-Click_Here-238636?style=for-the-badge" alt="Explore projects" /></a>
 <a href="https://github.com/utkarshhguptaa?tab=repositories"><img src="https://img.shields.io/badge/📂_All_Repositories-181717?style=for-the-badge&logo=github" alt="All repositories" /></a>
+<a href="https://www.linkedin.com/in/utkarshhguptaa/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
 <a href="#-connect"><img src="https://img.shields.io/badge/🤝_Connect-1f6feb?style=for-the-badge" alt="Connect" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=utkarshhguptaa&style=flat-square&color=58A6FF&label=PROFILE+VIEWS" alt="Profile views" />
@@ -154,6 +155,7 @@ My practice repository for algorithmic problem-solving and coding interview prep
 <p align="center">
   <a href="https://github.com/utkarshhguptaa"><img src="https://img.shields.io/badge/GitHub-Follow_me-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
   <a href="https://github.com/utkarshhguptaa?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore_projects-238636?style=for-the-badge&logo=github" alt="Repositories" /></a>
+  <a href="https://www.linkedin.com/in/utkarshhguptaa/"><img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
 </p>
 
 <p align="center"><i>Thanks for stopping by! If a project catches your eye, open an issue or start a discussion in its repository. 💬</i></p>
