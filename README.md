@@ -8,7 +8,7 @@
 
 <a href="#-projects"><img src="https://img.shields.io/badge/🚀_Explore_Projects-Click_Here-238636?style=for-the-badge" alt="Explore projects" /></a>
 <a href="https://github.com/utkarshhguptaa?tab=repositories"><img src="https://img.shields.io/badge/📂_All_Repositories-181717?style=for-the-badge&logo=github" alt="All repositories" /></a>
-<a href="https://utkarshhguptaa.github.io/utkarshhguptaa/"><img src="https://img.shields.io/badge/🎨_UX_Portfolio-Visit_Website-6f42c1?style=for-the-badge" alt="UX portfolio website" /></a>
+<a href="https://utkarshhguptaa.github.io/UX-Design-Portfolio/"><img src="https://img.shields.io/badge/🎨_UX_Portfolio-Visit_Website-6f42c1?style=for-the-badge" alt="UX portfolio website" /></a>
 <a href="https://www.linkedin.com/in/utkarshhguptaa/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
 <a href="#-connect"><img src="https://img.shields.io/badge/🤝_Connect-1f6feb?style=for-the-badge" alt="Connect" /></a>
 
